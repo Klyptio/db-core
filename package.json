@@ -22,7 +22,7 @@
     "typescript": "^5.3.3"
   },
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   },
   "description": "Klypt - DB Core Package",
   "dependencies": {
@@ -238,5 +238,13 @@
     "yocto-queue": "^0.1.0"
   },
   "author": "Priyajit Mukherjee",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyajitm/klypt-db-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/priyajitm/klypt-db-core/issues"
+  },
+  "homepage": "https://github.com/priyajitm/klypt-db-core#readme"
 }
