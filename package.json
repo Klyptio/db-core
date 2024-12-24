@@ -1,6 +1,6 @@
 {
   "name": "@klypt/db-core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -241,10 +241,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/priyajitm/klypt-db-core.git"
+    "url": "git+https://github.com/Klyptio/db-core.git"
   },
   "bugs": {
-    "url": "https://github.com/priyajitm/klypt-db-core/issues"
+    "url": "https://github.com/Klyptio/db-core/issues"
   },
-  "homepage": "https://github.com/priyajitm/klypt-db-core#readme"
+  "homepage": "https://github.com/Klyptio/db-core/issues#readme"
 }
