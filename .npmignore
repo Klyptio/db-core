@@ -1,7 +1,26 @@
+# Source and test files
 src/
 tests/
-.git
-.gitignore
-tsconfig.json
-jest.config.js
+__tests__/
 *.test.ts
+*.spec.ts
+
+# Config files
+tsconfig.json
+jest.config.ts
+.eslintrc*
+.prettierrc*
+.editorconfig
+.gitignore
+.npmignore
+
+# Development files
+coverage/
+.nyc_output/
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
+*.log
+.env*
